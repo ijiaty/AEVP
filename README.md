@@ -94,3 +94,11 @@ Possible future extensions include:
 - sensor fusion,
 - anomaly-aware scoring,
 - user / building / facility level point aggregation.
+
+## Documents
+
+- [Philosophy](docs/Philosophy.md)
+- [Developer Guide](docs/DeveloperGuide.md)
+- [Patent Mapping](docs/PatentMapping.md)
+- [Patent Memo Japanese](docs/PatentMemo-ja.md)
+- [Roadmap](docs/Roadmap.md)
