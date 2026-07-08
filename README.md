@@ -103,3 +103,6 @@ Possible future extensions include:
 - [Patent Memo Japanese](docs/PatentMemo-ja.md)
 - [Claim Draft Japanese](docs/ClaimDraft-ja.md)
 - [Roadmap](docs/Roadmap.md)
+
+- [Use Cases Japanese](docs/UseCases-ja.md)
+- [Architecture Japanese](docs/Architecture-ja.md)
