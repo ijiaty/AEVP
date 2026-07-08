@@ -101,4 +101,5 @@ Possible future extensions include:
 - [Developer Guide](docs/DeveloperGuide.md)
 - [Patent Mapping](docs/PatentMapping.md)
 - [Patent Memo Japanese](docs/PatentMemo-ja.md)
+- [Claim Draft Japanese](docs/ClaimDraft-ja.md)
 - [Roadmap](docs/Roadmap.md)
